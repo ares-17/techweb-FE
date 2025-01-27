@@ -1,0 +1,90 @@
+{
+  "navbar_title": "Smart Quizz",
+  "navbar_createquizz": "Create Quiz",
+  "navbar_signup": "Sign Up",
+  "navbar_signin": "Sign In",
+  "createquiz_title": "Create new Quiz",
+  "createquiz_titlequiz": "Title",
+  "createquiz_description": "Description",
+  "createquiz_view_preview": "See the preview",
+  "createquiz_numQuestions": "Number of questions: ",
+
+  "validators_minlength": "Enter text at least 3 characters long",
+  "validators_numRange": "The value entered is not included in the range [{min}, {max}]",
+  "validation_email": "Enter a congruous email",
+  "validation_pwd": "The password must contain at least 7 characters",
+
+  "createquiz_title_preview": "Preview",
+  "create_quiz_step1": "Fill data",
+  "create_quiz_step2": "Preview",
+  "createquiz_submitquiz": "Create quiz!",
+  "createquiz_success_toast": "Quiz successfully created!",
+  "navbar_toquiz": "Take a quiz",
+
+  "logToQuiz_title": "Enter quiz code",
+  "home_create_new_quiz": "Create new quiz!",
+  "home_or_choice": "Or",
+
+  "question_component_next": "Continue",
+  "question_component_back": "Go back",
+  "question_component_last_next": "Conclude quiz",
+  "openquestion_answer": "Answer",
+  "home_error_id": "No quiz with the entered id was found",
+
+  "questions_submit_success": "Quiz successfully completed!",
+
+  "generic_api_error": "An error occurred, please try again",
+
+  "login_error": "Incorrect credentials, try again",
+  "login_success": "Welcome, {username}",
+
+  "create_question_title": "Question's title",
+
+  "craete_question_answer1": "Text of answer 1",
+  "craete_question_answer2": "Text of answer 2",
+  "craete_question_answer3": "Text of answer 3",
+  "craete_question_answer4": "Text of answer 4",
+  "create_question_num_title": "Question {current} of {total}",
+
+  "createquiz_max_errors": "Number errors",
+
+  "create_quiz_dialog_text": "As you continue, you will no longer be able to change the values entered",
+  "create_quiz_dialog_title": "Are you sure you want to continue?",
+  "create_quiz_dialog_close_btn": "Cancel",
+  "create_quiz_dialog_ok_btn": "Confirm",
+
+  "dialog_login_title": "Welcome!",
+  "dialog_signup_title": "Register",
+
+  "navbar_welcome": "Welcome {username}",
+
+  "create_quiz_dialog_title_homepage": "Login",
+  "create_quiz_dialog_text_homepage": "You must be authenticated to create a quiz",
+
+  "quiz_deatails_qrcode_gen": "Generate QRcode",
+  "dialog_qrcode_title": "QRcode generated",
+  "dialog_qrcode_text": "Have your friends scan the qrcode to share the quiz! Or copy the link to share it",
+
+  "go_back_btn": "Go back",
+
+  "quiz_istance_num_questions": "Questions' number",
+  "quiz_istance_errors": "Number of errors allowed",
+  "quiz_istance_num_created_by": "Maker",
+  "quiz_istance_created_at": "Creation date",
+  "quiz_istance_no_scores": "No scores recorded",
+  "quiz_deatails_play": "Take the quiz",
+
+  "dialog_takequiz_username_title": "Insert username",
+  "dialog_takequiz_username_text": "Enter your username to complete the quiz or remain anonymous",
+  "dialog_takequiz_username_anonymous_btn": "Stay anonimous",
+  "dialog_takequiz_title_input": "Username",
+
+  "quiz_istance_copy_ok": "Code copied correctly!",
+  "quiz_istance_copy_ko": "Error: browser does not allow this feature, copy it manually",
+
+  "create_quiz_dialog_login": "Login",
+  "create_quiz_dialog_register": "Register",
+
+  "under_attack": "We determined malicious behavior with the Web App.",
+  "404_text": "The indicated page was not found, please return to the main screen"
+}

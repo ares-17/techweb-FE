@@ -1,0 +1,90 @@
+{
+  "navbar_title": "Smart Quiz",
+  "navbar_createquizz": "Crea Quiz",
+  "navbar_signup": "Registrati",
+  "navbar_signin": "Accedi",
+  "createquiz_title": "Crea un nuovo Quiz",
+  "createquiz_titlequiz": "Titolo",
+  "createquiz_description": "Descrizione",
+  "createquiz_view_preview": "Vedi l'anteprima",
+  "createquiz_numQuestions": "Numero domande",
+
+  "validators_minlength": "Inserire un testo di almeno 3 caratteri",
+  "validators_numRange": "Il valore inserito non è incluso nel range [{min}, {max}]",
+  "validation_email": "Inserire una email congrua",
+  "validation_pwd": "La password deve contentere almeno 7 caratteri",
+
+  "createquiz_title_preview": "Anteprima",
+  "create_quiz_step1": "Inserisci i dati",
+  "create_quiz_step2": "Anteprima",
+  "createquiz_submitquiz": "Inserisci ",
+  "createquiz_success_toast": "Quiz creato con successo!",
+  "navbar_toquiz": "Partecipa ad un quiz",
+
+  "logToQuiz_title": "Inserisci il codice del quiz",
+  "home_create_new_quiz": "Crea un nuovo quiz!",
+  "home_or_choice": "Oppure",
+
+  "question_component_next": "Prosegui",
+  "question_component_back": "Torna indietro",
+  "question_component_last_next": "Concludi il quiz",
+  "openquestion_answer": "Risposta",
+  "home_error_id": "Non è stato trovato nessun quiz con l'id inserito",
+
+  "questions_submit_success": "Quiz completato con successo!",
+
+  "generic_api_error": "Si è verificato un errore, riprovare",
+
+  "login_error": "Credenziali errate, riprovare",
+  "login_success": "Benvenuto, {username}",
+
+  "create_question_title": "Titolo domanda",
+
+  "craete_question_answer1": "Testo risposta 1",
+  "craete_question_answer2": "Testo risposta 2",
+  "craete_question_answer3": "Testo risposta 3",
+  "craete_question_answer4": "Testo risposta 4",
+  "create_question_num_title": "Domanda {current} di {total}",
+
+  "createquiz_max_errors": "Numero errori",
+
+  "create_quiz_dialog_text": "Proseguendo non sarai più in grado di modificare i valori inseriti",
+  "create_quiz_dialog_title": "Sei sicuro di voler continuare?",
+  "create_quiz_dialog_close_btn": "Annulla",
+  "create_quiz_dialog_ok_btn": "Conferma",
+
+  "dialog_login_title": "Bentornato!",
+  "dialog_signup_title": "Registrati",
+
+  "navbar_welcome": "Benvenuto {username}",
+
+  "create_quiz_dialog_title_homepage": "Effettua il login",
+  "create_quiz_dialog_text_homepage": "Per creare un quiz è necessario essere autenticati",
+
+  "quiz_deatails_qrcode_gen": "Genera QRcode",
+  "dialog_qrcode_title": "QRcode generato",
+  "dialog_qrcode_text": "Fai scannerizzare il qrcode dai tuoi amici per condividere il quiz! Oppure copia il link per condividerlo",
+
+  "go_back_btn": "Torna indietro",
+
+  "quiz_istance_num_questions": "Numero domande",
+  "quiz_istance_errors": "Numero errori consentiti",
+  "quiz_istance_num_created_by": "Creatore",
+  "quiz_istance_created_at": "Data creazione",
+  "quiz_istance_no_scores": "Nessun punteggio registrato",
+  "quiz_deatails_play": "Partecipa al quiz",
+
+  "dialog_takequiz_username_title": "Inserisci l'username",
+  "dialog_takequiz_username_text": "Inserisci l'username per completare il quiz oppure rimani anonimo",
+  "dialog_takequiz_username_anonymous_btn": "Rimani anonimo",
+  "dialog_takequiz_title_input": "Username",
+
+  "quiz_istance_copy_ok": "Codice copiato correttamente!",
+  "quiz_istance_copy_ko": "Errore: il browser non consente questa funzionalità, copiarlo manualmente",
+
+  "create_quiz_dialog_login": "Login",
+  "create_quiz_dialog_register": "Registrati",
+
+  "under_attack": "Abbiamo determinato un comportamento malintenzionato con la Web App",
+  "404_text": "La pagina indicata non è stata trovata, si consiglia di tornare alla schermata principale"
+}
